@@ -1,0 +1,4 @@
+.env
+audiovault_entries.json
+node_modules
+*.rss
